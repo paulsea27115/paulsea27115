@@ -1,4 +1,7 @@
 # PAULSEA27115 Github 
+서울디지텍고등학교를 재학중인 개발자 조성빈입니다.
+백엔드 개발과 포론트개발을 하고있고, 프론트엔드를 집중적으로 하고있습니다.
+
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaulsea27115&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=paulsea27115)](https://solved.ac/paulsea27115/)
