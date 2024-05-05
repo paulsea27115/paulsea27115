@@ -3,10 +3,10 @@
 
 Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 집중적으로 배우고 있습니다.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsea27115&langs_count=10&layout=compact&theme=dark)](https://github.com/paulsea27115)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=paulsea27115)](https://solved.ac/paulsea27115/)
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsea27115&langs_count=10&layout=compact&theme=dark)](https://github.com/paulsea27115)
- 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=paulsea27115)](https://solved.ac/paulsea27115/) 
 [![코드트리|실력진단-paulsea27115](https://banner.codetree.ai/v1/banner/paulsea27115)](https://www.codetree.ai/profiles/paulsea27115)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulsea27115&theme=radical&show_icons=true)
 
