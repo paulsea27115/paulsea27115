@@ -6,7 +6,6 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 
 
 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=paulsea27115)](https://solved.ac/paulsea27115/) 
 [![코드트리|실력진단-paulsea27115](https://banner.codetree.ai/v1/banner/paulsea27115)](https://www.codetree.ai/profiles/paulsea27115)
 ![Paulsea27115's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulsea27115&theme=radical&show_icons=true)
