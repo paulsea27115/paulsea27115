@@ -13,7 +13,7 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 
 ### 기술 스택
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb)](https://skillicons.dev)
 
 
 <!--
