@@ -1,12 +1,11 @@
 # PAULSEA27115's Github 
-서울디지텍고등학교를 재학중인 개발자 조성빈 입니다.
-
+서울디지텍고등학교를 재학중인 개발자 조성빈 입니다. <br><br>
 Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 집중적으로 배우고 있습니다.
 
+<br>
 
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaulsea27115&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<br>
 
 ## ✍ Problem Solving
 
