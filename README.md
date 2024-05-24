@@ -4,7 +4,7 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 
 <br>
 
-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaulsea27115&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaulsea27115&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## ✍ Problem Solving
@@ -22,7 +22,7 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 
 ## 🛠 Dev Skill 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb)](https://skillicons.dev)
 
 
