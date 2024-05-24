@@ -1,5 +1,5 @@
 # PAULSEA27115's Github 
-서울디지텍고등학교를 재학중인 개발자 조성빈입니다.
+서울디지텍고등학교를 재학중인 개발자 <strong style="color:blue">조성빈</strong>입니다.
 
 Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 집중적으로 배우고 있습니다.
 
