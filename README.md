@@ -20,7 +20,7 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 
 <br>
 
-## [🛠 Dev Skill 🛠]
+## [🛠 Skill Stack 🛠]
 
 |Category|Skill|
 |---|---|
