@@ -27,6 +27,7 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 |Problem Solving|[![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)|
 |Front-end|[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)|
 |Back-end|[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb)](https://skillicons.dev)|
+|Collaboration|[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)|
 
 <!--
 **paulsea27115/paulsea27115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
