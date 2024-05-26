@@ -34,7 +34,7 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 |Back-end|[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb)](https://skillicons.dev)|
 |Collaboration|[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)|
 
-### Current Learning 🌊
+### Currently Learning 🌊
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ### Learning soon 🔥
