@@ -4,6 +4,10 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 
 <br>
 
+![sk1](https://github.com/paulsea27115/ReactStudy/assets/92620088/347572d0-7381-4738-82ab-2c9a90ce03dc)
+
+<br>
+
 ## [✍ Problem Solving ]
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=paulsea27115)](https://solved.ac/paulsea27115/) 
