@@ -5,7 +5,11 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 <br>
 
 ![sk1](https://github.com/paulsea27115/ReactStudy/assets/92620088/347572d0-7381-4738-82ab-2c9a90ce03dc)
+<div align="center">
 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaulsea27115&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 <br>
 
 ## [✍ Problem Solving ]
@@ -38,11 +42,7 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 
 
 
-<div align="center">
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaulsea27115&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 <!--
 **paulsea27115/paulsea27115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
