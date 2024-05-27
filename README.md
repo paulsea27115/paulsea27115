@@ -7,15 +7,16 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 ![sk1](https://github.com/paulsea27115/ReactStudy/assets/92620088/347572d0-7381-4738-82ab-2c9a90ce03dc)
 <div align="center">
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaulsea27115&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaulsea27115&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 <br>
 
 ## [✍ Problem Solving ]
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=paulsea27115)](https://solved.ac/paulsea27115/) 
-[![코드트리|실력진단-paulsea27115](https://banner.codetree.ai/v1/banner/paulsea27115)](https://www.codetree.ai/profiles/paulsea27115)
+
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=paulsea27115) ![https://solved.ac/paulsea27115](https://mazandi.herokuapp.com/api?handle=paulsea27115&theme=warm)
+<a href="https://solved.ac/profile/paulsea27115"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=paulsea27115"></a><br>
 
 <br>
 
