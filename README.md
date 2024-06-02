@@ -4,7 +4,7 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 
 <br>
 
-![조성빈_프로필](https://github.com/paulsea27115/ReactStudy/assets/92620088/f127eed8-bfc2-40ef-8d34-f50654f4e306)
+![sk01](https://github.com/paulsea27115/ReactStudy/assets/92620088/b940556e-ae02-4680-8bcc-ba9e40138bb0)
 
 <div align="center">
 
