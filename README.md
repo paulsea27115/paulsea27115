@@ -42,10 +42,6 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 > ### Learning soon 🔥
 [![My Skills](https://skillicons.dev/icons?i=nextjs,fastapi)](https://skillicons.dev)
 
-> ### My Company Want This
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-
-###### so i learning JSP also
 
 <!--
 **paulsea27115/paulsea27115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
