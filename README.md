@@ -31,10 +31,10 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 
 |Category|Skill|
 |---|---|
-|Program Language|[![My Skills](https://skillicons.dev/icons?i=python,cpp,c)](https://skillicons.dev)|
-|Front-end|[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)|
-|Back-end|[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb)](https://skillicons.dev)|
-|Collaboration|[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)|
+|__Program Language__|[![My Skills](https://skillicons.dev/icons?i=python,cpp,c)](https://skillicons.dev)|
+|__Front-end__|[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)|
+|__Back-end__|[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb)](https://skillicons.dev)|
+|__Collaboration__|[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)|
 
 > ### Currently Learning 🌊
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
