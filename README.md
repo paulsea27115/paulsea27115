@@ -37,10 +37,10 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 |__Collaboration__|[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)|
 
 > ### Currently Learning 🌊
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 
 > ### Learning soon 🔥
-[![My Skills](https://skillicons.dev/icons?i=nextjs,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
 
 
 <!--
