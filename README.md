@@ -1,6 +1,7 @@
 # Cho SeongBin(조성빈) Github 
 > 한국공학대학교를 재학중인 개발자 조성빈 입니다. <br>
 Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 집중적으로 학습하고 있습니다.
+또한 대학교에서는 웹디자인에 대해 공부 하고있습니다.
 
 <br>
 
@@ -18,13 +19,13 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=paulsea27115) ![https://solved.ac/paulsea27115](https://mazandi.herokuapp.com/api?handle=paulsea27115&theme=warm)
-<a href="https://solved.ac/profile/paulsea27115"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=paulsea27115"></a><br>
+<!-- <a href="https://solved.ac/profile/paulsea27115"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=paulsea27115"></a>--> <br>
 
 <br>
 
 ## [📄 Github Info ]
 ![Paulsea27115's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulsea27115&theme=radical&show_icons=true)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsea27115&langs_count=8&layout=compact&theme=dark)](https://github.com/paulsea27115) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsea27115&langs_count=8&layout=compact&theme=dark)](https://github.com/paulsea27115)
 
 <br>
 
