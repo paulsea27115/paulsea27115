@@ -33,7 +33,7 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 |Category|Skill|
 |---|---|
 |__Program Language__|[![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)|
-|__Front-end__|[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)|
+|__Front-end__|[![My Skills](https://skillicons.dev/icons?i=css,js,ts,react,nextjs)](https://skillicons.dev)|
 |__Back-end__|[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs)](https://skillicons.dev)|
 |__Collaboration__|[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)|
 
