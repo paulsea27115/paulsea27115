@@ -26,7 +26,7 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 <!-- -->
 ## [📄 Github Info ]
 ![paulsea27115's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulsea27115&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsea27115&langs_count=8&layout=compact&theme=dark)](https://github.com/paulsea27115)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsea27115&langs_count=8&layout=compact&theme=dark)
 
 <br>
 
