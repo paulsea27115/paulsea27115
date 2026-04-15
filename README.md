@@ -18,7 +18,7 @@ Back-end 개발과 Front-end 개발을 공부하고 있고, Front-end 개발을 
 ## [✍ Problem Solving ]
 
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=paulsea27115) ![https://solved.ac/paulsea27115](https://mazandi.herokuapp.com/api?handle=paulsea27115&theme=warm)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=paulsea27115)
 <!-- <a href="https://solved.ac/profile/paulsea27115"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=paulsea27115"></a>--> <br>
 
 <br>
